@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Vineeth Sanke 👋
+ML Engineer focused on building production-grade data pipelines and LLM infrastructure.
+
+🔧 What I work on
+
+ML Infrastructure — SageMaker, Feature Stores, RAG pipelines, MLOps
+Data Engineering — AWS Glue, PySpark, Airflow, Snowflake, dbt
+Cloud — AWS · Azure · Snowflake
+Languages — Python · SQL
+
+📜 Certifications
+AWS Certified Data Analytics – Specialty
+Microsoft Certified: Azure Data Analyst Associate
+Databricks Certified Data Analyst Associate👋
 
 <!--
 **Vineeth-ML/Vineeth-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

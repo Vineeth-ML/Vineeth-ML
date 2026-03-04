@@ -13,6 +13,8 @@ AWS Certified Data Analytics – Specialty
 Microsoft Certified: Azure Data Analyst Associate
 Databricks Certified Data Analyst Associate👋
 
+Reach Me
+Linkedin: https://www.linkedin.com/in/vineeths-s07/
 <!--
 **Vineeth-ML/Vineeth-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@ ML Engineer focused on building production-grade data pipelines and LLM infrastr
 🔧 What I work on
 - **ML Infrastructure** — SageMaker, Feature Stores, RAG pipelines, MLOps
 - **Data Engineering** — AWS Glue, PySpark, Airflow, Snowflake, dbt
-- **Deep Learning** — ANN, CNN, RNN, LSTM RNN, GRU RNN
+- **Deep Learning** — ANN, CNN, RNN, LSTM, GRU, Transformer
 - **Cloud** — AWS · Azure · Snowflake
 - **Languages** — Python · SQL
 

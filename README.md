@@ -1,12 +1,15 @@
 ## Hi, I'm Vineeth Sanke 👋
 ML Engineer focused on building production-grade data pipelines and LLM infrastructure.
 
-🔧 What I work on
-- **ML Infrastructure** — SageMaker, Feature Stores, RAG pipelines, MLOps
-- **Data Engineering** — AWS Glue, PySpark, Airflow, Snowflake, dbt
-- **Deep Learning** — ANN, CNN, RNN, LSTM, GRU, Transformer
-- **Cloud** — AWS · Azure · Snowflake
-- **Languages** — Python · SQL
+### Skills & Tools
+**ML Infrastructure** — SageMaker, Feature Stores, RAG Pipelines, MLOps  
+**Data Engineering** — AWS Glue, PySpark, Airflow, Snowflake, dbt  
+**Deep Learning** — ANN, CNN, RNN, LSTM, GRU, Transformers  
+**Cloud** — AWS · Azure · Snowflake  
+**Languages** — Python · SQL · HTML  
+**Tools & GenAI** — OpenAI, Hugging Face, Ollama, LangChain, RAG, Embeddings, Vector DBs (FAISS, Pinecone, ChromaDB)  
+
+---
 
 📜 Certifications
 AWS Certified Data Analytics – Specialty

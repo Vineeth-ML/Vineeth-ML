@@ -1,5 +1,5 @@
 ## Hi, I'm Vineeth Sanke 👋
-ML Engineer focused on building production-grade data pipelines and LLM infrastructure.
+GenAI Engineer | Designing Scalable Data Pipelines and Production-Ready LLM Infrastructure
 
 ### Skills & Tools
 **ML Infrastructure** — SageMaker, Feature Stores, RAG Pipelines, MLOps  

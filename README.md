@@ -7,7 +7,7 @@ GenAI Engineer | Designing Scalable Data Pipelines and Production-Ready LLM Infr
 **Deep Learning** — ANN, CNN, RNN, LSTM, GRU, Transformers  
 **Cloud** — AWS · Azure · Snowflake  
 **Languages** — Python · SQL · HTML  
-**Tools & GenAI** — OpenAI, Hugging Face, Ollama, LangChain, RAG, Embeddings, Vector DBs (FAISS, Pinecone, ChromaDB)  
+**Tools & GenAI** — OpenAI, Google Gemini, Groq, Hugging Face, Ollama, LangChain, Retrieval-Augmented Generation (RAG), Embeddings (OpenAI, Hugging Face, Ollama), Vector Databases (FAISS, Pinecone, ChromaDB)  
 
 ---
 

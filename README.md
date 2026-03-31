@@ -3,18 +3,16 @@ GenAI Engineer | Designing Scalable Data Pipelines and Production-Ready LLM Infr
 
 ### Skills & Tools
  
-**ML Infrastructure** — Amazon SageMaker, Feature Stores, RAG Pipelines, MLOps
+### 🚀 Skills & Tools
 
-**Data Engineering** — AWS Glue, PySpark, Airflow, Snowflake, dbt
-
-**Deep Learning** — ANN, CNN, RNN, LSTM, GRU, Transformers
-
-**Cloud** — AWS · Azure · Snowflake · Amazon Bedrock
-
-**Languages** — Python · SQL · HTML
-
-**Tools & GenAI** — OpenAI, Google Gemini, Groq, Hugging Face, Ollama, LangChain, NVIDIA NIM, Retrieval-Augmented Generation (RAG), Embeddings (OpenAI, Hugging Face, Ollama), Vector Databases (FAISS, Pinecone, ChromaDB)  
-
+- **ML Infrastructure** — Amazon SageMaker, Feature Stores, RAG Pipelines, MLOps  
+- **Data Engineering** — AWS Glue, PySpark, Airflow, Snowflake, dbt  
+- **Deep Learning** — ANN, CNN, RNN, LSTM, GRU, Transformers  
+- **Cloud** — AWS · Azure · Snowflake · Amazon Bedrock  
+- **Programming Languages** — Python · SQL · HTML  
+- **GenAI & Tools** — OpenAI, Google Gemini, Groq, Hugging Face, Ollama, LangChain, CrewAI (Multi-Agent Systems), NVIDIA NIM  
+- **Concepts** — Retrieval-Augmented Generation (RAG), Embeddings (OpenAI, Hugging Face, Ollama)  
+- **Vector Databases** — FAISS, Pinecone, ChromaDB  
 ---
 
 📜 Certifications

@@ -1,5 +1,5 @@
 ## Hi, I'm Vineeth Sanke 👋
-GenAI Engineer | Designing Scalable Data Pipelines and Production-Ready LLM Infrastructure
+AI Engineer | Designing Scalable Data Pipelines and Production-Ready LLM Infrastructure
 
 ### Skills & Tools
  

@@ -15,10 +15,7 @@ AI Engineer | Designing Scalable Data Pipelines and Production-Ready LLM Infrast
 - **Vector Databases** — FAISS, Pinecone, ChromaDB  
 ---
 
-📜 Certifications
-AWS Certified Data Analytics – Specialty
-Microsoft Certified: Azure Data Analyst Associate
-Databricks Certified Data Analyst Associate
+
 
 👋 Reach Me
 Linkedin: https://www.linkedin.com/in/vineeths-s07/

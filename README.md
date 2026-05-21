@@ -8,7 +8,7 @@ AI Engineer | Designing Scalable Data Pipelines and Production-Ready LLM Infrast
 - **ML Infrastructure** — Amazon SageMaker, Feature Stores, RAG Pipelines, MLOps  
 - **Data Engineering** — AWS Glue, PySpark, Airflow, Snowflake, dbt  
 - **Deep Learning** — ANN, CNN, RNN, LSTM, GRU, Transformers  
-- **Cloud** — AWS · Azure · Snowflake · Amazon Bedrock  
+- **Cloud** — AWS · Microsoft Azure AI Foundry · Snowflake · Amazon Bedrock  
 - **Programming Languages** — Python · SQL · HTML  
 - **GenAI & Tools** — OpenAI, Google Gemini, Groq, Hugging Face, Ollama, LangChain, CrewAI (Multi-Agent Systems), NVIDIA NIM  
 - **Concepts** — Retrieval-Augmented Generation (RAG), Embeddings (OpenAI, Hugging Face, Ollama)  

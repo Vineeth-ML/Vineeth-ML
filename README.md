@@ -5,7 +5,7 @@ AI Engineer | Designing Scalable Data Pipelines and Production-Ready LLM Infrast
  
 ### 🚀 Skills & Tools
 
-- **ML Infrastructure** — Amazon SageMaker, Feature Stores, RAG Pipelines, MLOps  
+- **ML Infrastructure** — Amazon SageMaker, Azure AI Foundry, Feature Stores, RAG Pipelines, MLOps  
 - **Data Engineering** — AWS Glue, PySpark, Airflow, Snowflake, dbt  
 - **Deep Learning** — ANN, CNN, RNN, LSTM, GRU, Transformers  
 - **Cloud** — AWS · Microsoft Azure AI Foundry · Snowflake · Amazon Bedrock  
